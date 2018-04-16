@@ -2,12 +2,12 @@
 title: BY Blog    #播客的标题
 SEOTitle: 刘迎科的博客 | BY Blog     #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg    #显示在首页的背景图片
-email: qiubaiying@gmail.com         #邮箱
+email: kk171437912@163.com         #邮箱
 description: "Every failure is leading towards success."  #网站介绍
 keyword: "BY, BY Blog, 刘迎科的博客, qiubaiying, 刘迎科, iOS, Apple, iPhone"  #关键词
-url: "http://qiubaiying.github.io"          # your host, for absolute URL   # 这个就是填写你的博客地址
+url: "http://171437912.github.io"          # your host, for absolute URL   # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog' # 这个我们不用填写
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/171437912/171437912.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.  # 是否开启侧边栏.
