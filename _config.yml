@@ -1,28 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+title: BY Blog    #播客的标题
+SEOTitle: 刘迎科的博客 | BY Blog     #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-desk.jpg    #显示在首页的背景图片
+email: qiubaiying@gmail.com         #邮箱
+description: "Every failure is leading towards success."  #网站介绍
+keyword: "BY, BY Blog, 刘迎科的博客, qiubaiying, 刘迎科, iOS, Apple, iPhone"  #关键词
+url: "http://qiubaiying.github.io"          # your host, for absolute URL   # 这个就是填写你的博客地址
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog' # 这个我们不用填写
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # whether or not using Sidebar.  # 是否开启侧边栏.
+sidebar-about-description: "说点装逼的话。。。"
+sidebar-avatar: /img/about-BY-gentle.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#社交账号  username填社交账号用户名
+# weibo_username:    qiubaiy ing    #微博
+zhihu_username:     qiubaiying      #知乎
+github_username:    qiubaiying      #github
+facebook_username:  baiying.qiu.7   #脸书
+jianshu_username:   e71990ada2fd    #简书
 #twitter_username:   qiubaiying
 
 
